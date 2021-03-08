@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TugasCH6TopSharedP</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="btn_login">btn_login</string>
+    <string name="tv_register">tv_register</string>
+    <string name="btn_register">btn_register</string>
+    <string name="login">Login</string>
+</resources>
